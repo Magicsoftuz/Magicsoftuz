@@ -8,9 +8,6 @@
 <a href="https://www.linkedin.com/in/umid-rustamov/">
   <img align="left" alt="Umid's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/">
-  <img align="left" alt="Umid's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=magicsoftuz.magicsoftuz)
 
